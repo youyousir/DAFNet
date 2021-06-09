@@ -5,7 +5,7 @@ deformable alignment fusion for real-time semantic segmentation
 
 
 ### Installation
-This code has been tested with Python 3.6, pytorch 1.3, CUDA 9.0 and cuDNN 7.4.1 on Ubuntu 16.04. 
+This code has been tested with Python 3.6, pytorch 1.3. 
 - install some packages
 ```
 pip install tabulate
