@@ -30,4 +30,4 @@ You need to download the [Cityscapes](https://www.cityscapes-dataset.com/downloa
 
 - qualitative segmentation examples:
 
-![1622728333455](/Users/mac/Desktop/1622728333455.gif)
+![1622728333455](imgs/1622728333455.gif)
