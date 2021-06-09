@@ -10,10 +10,7 @@ You need to download the [Cityscapes](https://www.cityscapes-dataset.com/downloa
 ├── cityscapes
 |    ├── gtFine
 |    ├── leftImg8bit
-|    ├── cityscapes_trainval_list.txt
-|    ├── cityscapes_train_list.txt
-|    ├── cityscapes_test_list.txt
-|    └── cityscapes_val_list.txt 
+
 ```
 
 
